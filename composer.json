@@ -1,0 +1,12 @@
+{
+    "name": "dilla/dilla",
+    "description": "Dilla",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dilla\\Dilla\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
